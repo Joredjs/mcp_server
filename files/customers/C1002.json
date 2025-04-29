@@ -1,0 +1,29 @@
+{
+  "id": "C1002",
+  "name": "Michael Chen",
+  "email": "m.chen@example.com",
+  "phone": "555-876-5432",
+  "address": {
+    "street": "189 Oak Street",
+    "city": "Portland",
+    "state": "OR",
+    "zipcode": "97205"
+  },
+  "memberSince": "2020-08-22",
+  "loyaltyPoints": 1275,
+  "preferredCategories": ["Sports Equipment", "Outdoor Gear"],
+  "purchaseHistory": [
+    {
+      "orderId": "ORD-5501",
+      "date": "2023-06-12",
+      "amount": 175.25,
+      "items": ["Running Shoes", "Water Bottle"]
+    },
+    {
+      "orderId": "ORD-8022",
+      "date": "2024-01-05",
+      "amount": 523.80,
+      "items": ["Camping Tent", "Sleeping Bag"]
+    }
+  ]
+}

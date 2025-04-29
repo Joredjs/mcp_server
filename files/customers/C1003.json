@@ -1,0 +1,29 @@
+{
+  "id": "C1003",
+  "name": "Emily Rodriguez",
+  "email": "emily.r@example.com",
+  "phone": "555-345-6789",
+  "address": {
+    "street": "750 Pine Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zipcode": "78704"
+  },
+  "memberSince": "2019-11-30",
+  "loyaltyPoints": 3150,
+  "preferredCategories": ["Books", "Kitchen Supplies"],
+  "purchaseHistory": [
+    {
+      "orderId": "ORD-3442",
+      "date": "2023-09-28",
+      "amount": 124.50,
+      "items": ["Cookbook", "Chef's Knife"]
+    },
+    {
+      "orderId": "ORD-6571",
+      "date": "2024-03-17",
+      "amount": 89.99,
+      "items": ["Fiction Novel Set", "Bookends"]
+    }
+  ]
+}

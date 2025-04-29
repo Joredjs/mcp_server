@@ -1,0 +1,29 @@
+{
+  "id": "C1001",
+  "name": "Sarah Johnson",
+  "email": "sarah.j@example.com",
+  "phone": "555-123-4567",
+  "address": {
+    "street": "42 Maple Avenue",
+    "city": "Riverdale",
+    "state": "NY",
+    "zipcode": "10463"
+  },
+  "memberSince": "2018-03-15",
+  "loyaltyPoints": 2450,
+  "preferredCategories": ["Electronics", "Home Appliances"],
+  "purchaseHistory": [
+    {
+      "orderId": "ORD-7834",
+      "date": "2023-11-18",
+      "amount": 349.99,
+      "items": ["Smartwatch", "Phone Case"]
+    },
+    {
+      "orderId": "ORD-9213",
+      "date": "2024-02-03",
+      "amount": 1249.50,
+      "items": ["Laptop", "Extended Warranty"]
+    }
+  ]
+}
