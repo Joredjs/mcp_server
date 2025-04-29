@@ -1,0 +1,21 @@
+{
+	"type": "module",
+	"bin": {
+		"modelcontext": "./build/index.js"
+	},
+	"scripts": {
+		"build": "tsc",
+		"debug": "@modelcontextprotocol/inspector node build/index.js"
+	},
+	"files": [
+		"build"
+	],
+	"dependencies": {
+		"@modelcontextprotocol/sdk": "^1.10.2",
+		"zod": "^3.24.3"
+	},
+	"devDependencies": {
+		"@types/node": "^22.14.1",
+		"typescript": "^5.8.3"
+	}
+}

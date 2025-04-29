@@ -1,0 +1,29 @@
+{
+  "id": "C1005",
+  "name": "Jessica Kim",
+  "email": "j.kim@example.com",
+  "phone": "555-234-5678",
+  "address": {
+    "street": "467 Cedar Lane",
+    "city": "Seattle",
+    "state": "WA",
+    "zipcode": "98101"
+  },
+  "memberSince": "2017-05-19",
+  "loyaltyPoints": 4320,
+  "preferredCategories": ["Clothing", "Beauty Products"],
+  "purchaseHistory": [
+    {
+      "orderId": "ORD-1154",
+      "date": "2023-12-10",
+      "amount": 312.75,
+      "items": ["Winter Coat", "Boots", "Scarf"]
+    },
+    {
+      "orderId": "ORD-5283",
+      "date": "2024-02-28",
+      "amount": 189.50,
+      "items": ["Skincare Set", "Makeup Kit"]
+    }
+  ]
+}

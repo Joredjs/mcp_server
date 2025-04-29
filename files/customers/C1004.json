@@ -1,0 +1,29 @@
+{
+  "id": "C1004",
+  "name": "David Wilson",
+  "email": "d.wilson@example.com",
+  "phone": "555-987-6543",
+  "address": {
+    "street": "325 Birch Road",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60611"
+  },
+  "memberSince": "2021-02-14",
+  "loyaltyPoints": 890,
+  "preferredCategories": ["Music", "Gaming"],
+  "purchaseHistory": [
+    {
+      "orderId": "ORD-2231",
+      "date": "2023-08-05",
+      "amount": 259.99,
+      "items": ["Wireless Headphones", "Gaming Mouse"]
+    },
+    {
+      "orderId": "ORD-4102",
+      "date": "2024-04-01",
+      "amount": 419.95,
+      "items": ["Gaming Console", "Game Subscription"]
+    }
+  ]
+}
